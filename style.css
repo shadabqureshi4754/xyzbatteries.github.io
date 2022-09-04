@@ -1,0 +1,61 @@
+body {
+    position: relative; 
+  }
+  #section1 {padding-top:50px;height:500px;color: #fff; background-color: #1E88E5;}
+  #section2 {padding-top:50px;height:500px;color: #fff; background-color: #3bdf48;}
+  #section3 {padding-top:50px;height:500px;color: #fff; background-color:
+  grey;}
+  #section4 {padding-top:50px;height:500px;color: #fff; background-color: #00bcd4;}
+ 
+a.navbar-brand {
+    color: azure;
+    font-family: sans-serif;
+}
+
+
+a.nav-link {
+    color: beige;
+    font-family: ;
+}
+
+a.nav-link:hover {
+    font-weight: bold;
+    color: #fff;
+    transition: 0.1s;
+}
+
+
+ul.navbar-nav {
+    margin-left: 393px;
+}
+
+div#section1 {
+    height: fit-content;
+}
+div#section2 {
+    height: fit-content;
+}
+div#section3 {
+    height: fit-content;
+}
+div#section4 {
+    height: fit-content;
+}
+
+.card-body {
+    background-color: #000000;
+}
+
+i.fa-brands.fa-whatsapp {
+    color: greenyellow;
+    font-size: 30px;
+}
+
+.card-title {
+    margin-bottom: var(--bs-card-title-spacer-y);
+    color: gold;
+}
+
+
+
+
